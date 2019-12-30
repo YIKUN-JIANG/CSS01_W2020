@@ -34,18 +34,18 @@ Author: Matthes, Eric
 ### Short Quizzes
 Starting week 2: At the start of section there will be a short quiz with questions focused on topics from class (approx. 5-10 multiple-choice questions). These quizzes will be given online using google forms. 
 
-Each of the quizzes will be worth 10 points.
+Each of the quizzes will be worth 5 points.
 
-You can drop two quizzes to give you some flexibility if you need to be late for a class or if you have other obligations that prevent you from preparing.  
+You can drop two quizzes to give you some flexibility if you need to be late for a class or if you have other obligations that prevent you from preparing (best 7/9 quizzes for 35 total points).  
 
 ### Midterm
 There will be a midterm that will cover material from the first 1/2 of the class. The midterm will be worth 50 points. 
 
 ### Final Project
-Instead of a final exam you will have a final project that will require you to generate code to address a novel problem. More details will be provided during 2nd week. The final project will be worth 80 points. 
+Instead of a final exam you will have a final project that will require you to generate code to address a novel problem. More details will be provided during 2nd week. The final project will be worth 50 points. 
 
 ## In-section problem sets
-Each week there will be a problem set that you will work on in section and out of class. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. The problem sets will be graded weekly and will count for 50 points towards your final grade (i.e. same weight as the midterm). 
+Starting week 2 there will be a problem set that you will work on in section and out of class. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. You must complete 7/9 problem sets (drop the two lowest scores). The problem sets will be graded weekly and will count for 5 points each (35 total). 
 
 ## In class participation and attendance
 Class participation and attendance is worth 10 points. To give you some flexibility, you will receive the full 10 points if you attend 80% of the lectures. Attendance will be monitored based on responses to questions using iClickers. 
@@ -112,7 +112,7 @@ Feb 24,26: Pandas (data frames)
 
 March 2,4: NumPy (numerical computing)
 
-March 9,11: Plotting (Matplotlib and Seaborn)
+March 9,11: Plotting (Matplotlib)
 
 Final Project Due: TBD (when our final exam time is allocated by the Registrar)
 
