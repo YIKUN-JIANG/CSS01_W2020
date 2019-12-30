@@ -112,7 +112,7 @@ Feb 24,26: Pandas (data frames)
 
 March 2,4: NumPy (numerical computing)
 
-March 9,11: Plotting (Matplotlib)
+March 9,11: Data visualization (Matplotlib)
 
 Final Project Due: TBD (when our final exam time is allocated by the Registrar)
 
