@@ -98,7 +98,9 @@ Jan 6,8: What is Python?, Jupyter Environment (Google Colab), First Program, Int
 
 Jan 13,15: More on object types, lists, for loops, list comprehensions, slicing lists
 
-Jan 20,22: If…elif…else statements, dictionaries
+#### Jan 20 (no class, MLK)
+
+Jan 22: If…elif…else statements, dictionaries
 
 Jan 27,29: while statements, writing functions
 
@@ -106,7 +108,9 @@ Jan 27,29: while statements, writing functions
 
 Feb 10,12: Classes, object-oriented programming
 
-Feb 17,19: File Input/Output, data formats for files (e.g. JSON, HDF5)
+#### Feb 17 (no class, Pres. day)
+
+Feb 19: File Input/Output, data formats for files (e.g. JSON, HDF5)
 
 Feb 24,26: Pandas (data frames)
 
